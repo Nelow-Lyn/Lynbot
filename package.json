@@ -1,0 +1,12 @@
+{
+  "name": "Lynbot",
+  "version": "1.0.0",
+  "description": "Some whacky discord bot randomizing stuff",
+  "main": "bot.js",
+  "author": "Lyn",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^11.6.4",
+    "winston": "^3.3.3"
+  }
+}
